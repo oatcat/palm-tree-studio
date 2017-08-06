@@ -1,6 +1,6 @@
 # Welcome to the SALTED FISH STUDIO ! #
 
-----------
+
 Hello, welcome to the SALTED FISH STUDIO.
 
 This SALTED FISH STUDIO is where I publish useful code and
