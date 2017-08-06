@@ -1,8 +1,10 @@
 # EAGLE Libraries from SALTED FISH STUDIO
 
 The libraries here are provided as is.
+
 It is your responsibility to check whether the lbr is correct or not,
 and this is recommended even for those *tested* lbrs.
+
 All lbrs are created by me and **SOME** are tested on a real PCB.
 
 ------
