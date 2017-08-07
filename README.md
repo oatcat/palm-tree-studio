@@ -22,7 +22,7 @@ bring it up in issues.
 ```
 7seg-3-0.25.lbr
 TPS63070.lbr
-XT30.lbr
+XT30PW.lbr
 ```
 
 ----------
