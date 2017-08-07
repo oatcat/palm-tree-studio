@@ -10,9 +10,11 @@ If you  found an imprecision or an error,
 then you are welcome to correct it by making commit or
 bring it up in issues.
 
+这里是卤咸鱼是鹹魚的代码补给点，如有错误欢迎指出。
+
 
 ----------
-directories:
+目录/directories:
 
 
 
