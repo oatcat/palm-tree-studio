@@ -23,6 +23,8 @@ bring it up in issues.
 7seg-3-0.25.lbr
 TPS63070.lbr
 XT30PW.lbr
+JST-GH1.25.lbr
+LM397.lbr
 ```
 
 ----------
